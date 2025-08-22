@@ -1,4 +1,4 @@
-## Oi, eu sou o DJALMA SILVA 👋
+## Oi, Meu nome é DJALMA SILVA 👋
 
 
 - 🔭 Eu estou atualmente migrando do administrativo para a análise e desenvolvimento de sistema...
